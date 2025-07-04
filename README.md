@@ -1,3 +1,3 @@
-# Hi, I'm Arun 👋
+# Hi 👋
 
 Software Engineer.
