@@ -1,3 +1,1 @@
 # Hi 👋
-
-Software Engineer.
